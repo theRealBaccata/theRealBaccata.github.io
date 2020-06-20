@@ -1,4 +1,3 @@
 # Titel der Webseite
 
-Füge unter den Titel eine Beschreibung deines Charakters (~30-50 Wörter) zur index.md Datei hinzu. Hierfür sollst du Klartext schreiben, also ohne besondere Formatierungen oder Github Flavoured Markdown. 
-Füge unter den Titel eine Beschreibung deines Charakters (~30-50 Wörter) zur index.md Datei hinzu. Hierfür sollst du Klartext schreiben, also ohne besondere Formatierungen oder Github Flavoured Markdown.
+Durch ueber zweihundert farbige Bilder stapft der muntere Bobo Siebenschlaefer. Schon Kinder um zwei Jahre haben ihren Spass an diesen leicht verstaendlichen Geschichten aus dem Kleinkinderalltag. In jeder der sieben Geschichten wird Bobo am Ende muede (nur bei der allerletzten schlafen die Eltern vor ihm ein). Das richtige Bettkantenbuch fuer nimmermuede Kleinkinder.
