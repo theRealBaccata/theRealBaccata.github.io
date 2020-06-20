@@ -6,3 +6,6 @@ Durch ueber zweihundert farbige Bilder stapft der muntere Bobo Siebenschlaefer. 
 * neugierig
 * tollpatschig
 * gesellig
+
+As Grace Hopper said:
+> I've always been more interested
