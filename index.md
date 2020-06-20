@@ -9,3 +9,5 @@ Durch ueber zweihundert farbige Bilder stapft der muntere Bobo Siebenschlaefer. 
 
 As Grace Hopper said:
 > I've always been more interested
+
+<img src="https://vignette.wikia.nocookie.net/lands-of-lore/images/9/90/Baccata.png/revision/latest/scale-to-width-down/310?cb=20200303212350" />
