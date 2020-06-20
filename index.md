@@ -1,13 +1,13 @@
-# Titel der Webseite
+# Lands of Lore - Baccata
 
-Durch ueber zweihundert farbige Bilder stapft der muntere Bobo Siebenschlaefer. Schon Kinder um zwei Jahre haben ihren Spass an diesen leicht verstaendlichen Geschichten aus dem Kleinkinderalltag. In jeder der sieben Geschichten wird Bobo am Ende muede (nur bei der allerletzten schlafen die Eltern vor ihm ein). Das richtige Bettkantenbuch fuer nimmermuede Kleinkinder.
+Baccata is a Thomgog, companion of Dawn, Talamari, officer of Gladstone and an important supporting character throughout the Lands of Lore trilogy.
 
 ## Charakter
-* neugierig
-* tollpatschig
-* gesellig
+* wealthy
+* 4 arms
+* yellow
 
-As Grace Hopper said:
-> I've always been more interested
+Introduction:
+> "Hello, we have not met. I am Baccata, Dawn's apprentice."
 
 <img src="https://vignette.wikia.nocookie.net/lands-of-lore/images/9/90/Baccata.png/revision/latest/scale-to-width-down/310?cb=20200303212350" />
